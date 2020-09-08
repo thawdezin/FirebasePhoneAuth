@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebasePhoneAuth</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="to_continue">Continue</string>
+    <string name="what_s_your_phone_number">What\'s your phone number?</string>
+    <string name="detect_code">Code will be detected automatically but if it is not detected you can put it below manually as well</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_code">Enter code</string>
+    <string name="wait_for_the_code">Wait for the code...</string>
+</resources>
